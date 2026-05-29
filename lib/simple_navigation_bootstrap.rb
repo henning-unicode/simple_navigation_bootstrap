@@ -19,3 +19,4 @@ SimpleNavigation.register_renderer(bootstrap2: SimpleNavigationBootstrap::Bootst
 SimpleNavigation.register_renderer(bootstrap3: SimpleNavigationBootstrap::Bootstrap3)
 SimpleNavigation.register_renderer(bootstrap4: SimpleNavigationBootstrap::Bootstrap4)
 SimpleNavigation.register_renderer(bootstrap5: SimpleNavigationBootstrap::Bootstrap5)
+SimpleNavigation.register_renderer(bootstrap5_sidebar: SimpleNavigationBootstrap::Bootstrap5Sidebar)
